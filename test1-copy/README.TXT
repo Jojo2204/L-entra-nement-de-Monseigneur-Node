@@ -5,7 +5,7 @@ Au minimum, remplissez cette description :
 ------------------------------------------------------------------------
 
 TITRE DU PROJET : JOJO 2
-BUT POURSUIVI : je veux 2
+BUT POURSUIVI : ok
 VERSION ou DATE :
 COMMENT INVOQUER CE PROJET :
 AUTEURS :
