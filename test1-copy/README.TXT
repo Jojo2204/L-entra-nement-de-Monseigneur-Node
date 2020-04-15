@@ -4,8 +4,8 @@ Dites au lecteur (qui ne sait rien du projet) ce qu'il a besoin de savoir.
 Au minimum, remplissez cette description :
 ------------------------------------------------------------------------
 
-TITRE DU PROJET : JOJO 1 et 2
-BUT POURSUIVI :
+TITRE DU PROJET : JOJO 2
+BUT POURSUIVI : je veux 2
 VERSION ou DATE :
 COMMENT INVOQUER CE PROJET :
 AUTEURS :
